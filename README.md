@@ -22,8 +22,7 @@
   <a href="https://www.linkedin.com/in/siddharth-nama/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/siddharthnama26/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://leetcode.com/Siddharth_Nama/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://linktr.ee/siddharthnama"><img src="[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/siddharthnama)
-" alt="Linktree"/></a>
+  <a href="https://linktr.ee/siddharthnama"><img src="https://img.shields.io/badge/Linktree?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
 </p>
 
 <div align="center">
