@@ -33,14 +33,14 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I'm currently working at Merkle Full Stack Developer.
-- 🌱 I'm currently learning Next JS, Three JS & Hono.
-- 👯 I collaborate on Tech Communities in Discord
-- 💬 Ask me about JavaScript, React, SFCC, or any Tech related things
-- 📫 How to reach me: Check the badges above!
+- 🔭 I'm a Computer Science undergraduate at IIIT Bhagalpur.
+- 🌱 I'm currently learning Django, React.js, and mastering scalable systems.
+- 👯 I collaborate in tech communities, contributing to innovative projects and coding challenges.
+- 💬 Ask me about Python, Django, React.js, React Native, REST APIs, SQLite, Bootstrap, or optimizing backend systems.
+- 📫 How to reach me: Check out my GitHub or LinkedIn profiles!
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a Gamer and always up for a coding challenge!
-- 🌐 Check out my portfolio: [Rizon's Portfolio](https://rizonkumarrahi.in/)
+- ⚡ Fun fact: I enjoy competitive coding and building impactful applications!
+- 🌐 Check out my portfolio: [Siddharth's Portfolio](https://portfolio-siddharth-namas-projects.vercel.app/)
 
 ---
 
@@ -82,14 +82,6 @@
 - Leadership
 - C++
 - C
-
----
-
-### :trophy: Achievements :
-
-- 🌟 Ranked 96/22271 in LeetCode Weekly Contest 294
-- 💻 Solved 700+ problems on LeetCode, GFG, and CodeStudio
-- 🏅 GFG Rank 1 in SRM Institute of Science and Technology
 
 ---
 
