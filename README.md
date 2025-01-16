@@ -105,17 +105,17 @@
 
 Feel free to reach out for collaborations or just a friendly chat:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rizonkumarrahi/">
+  <a href="https://www.linkedin.com/in/siddharth-nama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/RizonKumar">
+  <a href="https://twitter.com/SiddharthNama26">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/rizon__kumar/">
+  <a href="https://www.instagram.com/siddharthnama26/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
 ---
 
-⭐️ From [rizonkumar](https://github.com/rizonkumar)
+⭐️ From [Siddharth Nama](https://github.com/Siddharth-Nama)
