@@ -87,11 +87,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizonkumar&theme=radical&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siddharth-Nama&theme=radical&background=0D1117)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizonkumar&layout=compact&theme=radical&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Nama&layout=compact&theme=radical&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-![Rizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizonkumar&show_icons=true&theme=radical&bg_color=0D1117)
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth-Nama&show_icons=true&theme=radical&bg_color=0D1117)
 
 ---
 
