@@ -87,7 +87,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Siddharth-Nama&theme=radical&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Siddharth-Nama)](https://git.io/Siddharth-Nama)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Nama&layout=compact&theme=radical&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
